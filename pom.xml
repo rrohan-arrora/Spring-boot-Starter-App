@@ -29,6 +29,8 @@
 		</dependency>
 	</dependencies>
 
+	<!-- this maven build is particularly used to start the spring boot 
+	application from the terminal -->
 	<build>
 		<plugins>
 			<plugin>
