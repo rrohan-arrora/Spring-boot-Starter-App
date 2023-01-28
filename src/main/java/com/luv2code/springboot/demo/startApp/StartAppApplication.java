@@ -3,6 +3,11 @@ package com.luv2code.springboot.demo.startApp;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//@SpringBootApplication annotation consists of 
+// @EnableAutoConfiguration
+// @ComponentScan
+// @Configuration
+
 @SpringBootApplication
 public class StartAppApplication {
 
